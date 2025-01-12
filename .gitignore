@@ -1,2 +1,3 @@
 #ignore the logs file
 *.log
+*.py
